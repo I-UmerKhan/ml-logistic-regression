@@ -1,1 +1,2 @@
 # ml-logistic-regression
+Understood logistic regression through gradient descent and the perceptron trick provides a solid foundation in binary classification. Logistic regression uses gradient descent to optimize parameters by minimizing the logistic loss function, while the perceptron trick updates weights incrementally to correctly classify instances. This combination equips you to effectively model probabilities and make predictions in classification tasks.
